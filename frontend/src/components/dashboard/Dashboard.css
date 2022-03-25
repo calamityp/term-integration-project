@@ -1,0 +1,62 @@
+.topic h3 {
+  color: black;
+  margin-top: 30px;
+}
+
+/* .top-bar .row{
+    display: flexbox;
+    justify-content: right;
+    align-items: flex-end;
+} */
+
+.username {
+  margin: 1%;
+}
+
+.username p {
+  text-align: left;
+  color: black;
+}
+
+#crd1,
+#crd2,
+#crd3,
+#crd4,
+#crd5 {
+  height: 150px;
+  color: black;
+}
+
+#crd1 {
+  border-left: 3px solid blue;
+}
+
+#crd2 {
+  border-left: 3px solid red;
+}
+
+#crd3 {
+  border-left: 3px solid orange;
+}
+#crd4 {
+  border-left: 3px solid yellowgreen;
+}
+#crd5 {
+  border-left: 3px solid green;
+}
+
+#mi {
+  background-color: bisque;
+  min-height: 100vh;
+}
+
+h6 {
+  color: black;
+  text-align: center;
+}
+
+h3{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}

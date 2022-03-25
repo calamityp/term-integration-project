@@ -1,0 +1,23 @@
+span{
+    color: black;
+}
+
+#table-topic{
+    color:white;
+    text-align: left;
+    margin-left: 1%;
+}
+
+.btn-return{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#log{
+    color: white;
+}
+
+#uname{
+    color: white;
+}
